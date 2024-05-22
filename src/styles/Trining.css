@@ -1,0 +1,97 @@
+h1 {
+  margin-bottom: 20px;
+}
+
+select {
+  margin-bottom: 20px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.exercise-card-wrp {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.exercise-card {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.exercise-details {
+  max-width: 60%;
+  text-align: left;
+}
+
+.training-card-right {
+  position: sticky;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.video iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 8px;
+}
+
+.onePage {
+  border: 0;
+}
+
+.onePage .video {
+  height: 100%;
+  width: 100%;
+}
+
+.onePage .training-card-right {
+  width: 50%;
+  aspect-ratio: 16/9;
+  position: sticky;
+  top: 15%;
+  height: auto;
+}
+
+.onePage .training-card-left {
+  width: 50%;
+  padding-right: 10px;
+}
+
+.addExerciseWrp {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 30px;
+}
+
+.fullExWrp {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
+}
+
+.exercise-input {
+  display: flex;
+  gap: 20px;
+}
+
+.exTitleWrp {
+  display: flex;
+  gap: 20px;
+}

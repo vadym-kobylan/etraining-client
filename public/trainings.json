@@ -1,0 +1,238 @@
+{
+  "filteredGroups": [
+    {
+      "id": 1,
+      "groupName": "Shoulder",
+      "exercises": [
+        {
+          "id": 1,
+          "exerciseName": "Overhead Press",
+          "sets": null
+        },
+        {
+          "id": 2,
+          "exerciseName": "Side Lateral Raise",
+          "sets": null
+        },
+        {
+          "id": 3,
+          "exerciseName": "Hip Hugger",
+          "sets": null
+        },
+        {
+          "id": 4,
+          "exerciseName": "Cable Stretch Front Raise",
+          "sets": null
+        },
+        {
+          "id": 5,
+          "exerciseName": "Face Pull",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 1,
+          "exLink": "https://www.youtube.com/watch?v=zGZVv5zqCFE&list=PLRS2DE4P39EdFtwQkxq3-eLTfylJGz1S_",
+          "group": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "groupName": "Chest",
+      "exercises": [
+        {
+          "id": 6,
+          "exerciseName": "Ignition Set",
+          "sets": null
+        },
+        {
+          "id": 7,
+          "exerciseName": "Cable Crossover",
+          "sets": null
+        },
+        {
+          "id": 8,
+          "exerciseName": "Incline Bench Press",
+          "sets": null
+        },
+        {
+          "id": 9,
+          "exerciseName": "Dips",
+          "sets": null
+        },
+        {
+          "id": 10,
+          "exerciseName": "Omni Crossover",
+          "sets": null
+        },
+        {
+          "id": 11,
+          "exerciseName": "Hell on 100",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 2,
+          "exLink": "https://www.youtube.com/watch?v=dPb9JxFMuuE&list=PLRS2DE4P39EdFtwQkxq3-eLTfylJGz1S_&index=2",
+          "group": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "groupName": "Arm",
+      "exercises": [
+        {
+          "id": 12,
+          "exerciseName": "Dumbbell JM Press",
+          "sets": null
+        },
+        {
+          "id": 13,
+          "exerciseName": "Crossbody Hammer Curl",
+          "sets": null
+        },
+        {
+          "id": 14,
+          "exerciseName": "Tricep Pushdown",
+          "sets": null
+        },
+        {
+          "id": 15,
+          "exerciseName": "Bicep Chin Up",
+          "sets": null
+        },
+        {
+          "id": 16,
+          "exerciseName": "Negative Chin Hold",
+          "sets": null
+        },
+        {
+          "id": 17,
+          "exerciseName": "Weighted Upright Dip",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 3,
+          "exLink": "https://www.youtube.com/watch?v=rdaIUhFWCpg&list=PLRS2DE4P39EdFtwQkxq3-eLTfylJGz1S_&index=3",
+          "group": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "groupName": "Chest & Arms",
+      "exercises": [
+        {
+          "id": 18,
+          "exerciseName": "Flys",
+          "sets": null
+        },
+        {
+          "id": 19,
+          "exerciseName": "Chest Machine",
+          "sets": null
+        },
+        {
+          "id": 20,
+          "exerciseName": "Rope Triceps extension",
+          "sets": null
+        },
+        {
+          "id": 21,
+          "exerciseName": "Easy Bar Triceps Extension",
+          "sets": null
+        },
+        {
+          "id": 22,
+          "exerciseName": "Cable Crossbody extension",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 4,
+          "exLink": "https://www.youtube.com/watch?v=HU4x9I2L1dk",
+          "group": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "groupName": "Chest & Shoulder",
+      "exercises": [
+        {
+          "id": 23,
+          "exerciseName": "Shoulder Press",
+          "sets": null
+        },
+        {
+          "id": 24,
+          "exerciseName": "Low Cable Crossover",
+          "sets": null
+        },
+        {
+          "id": 25,
+          "exerciseName": "Body Weight Leaning Dip",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 5,
+          "exLink": "https://www.youtube.com/watch?v=XJe7rNZhiLw",
+          "group": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "groupName": "Arms & Shoulder",
+      "exercises": [
+        {
+          "id": 26,
+          "exerciseName": "Shoulder Press",
+          "sets": null
+        },
+        {
+          "id": 27,
+          "exerciseName": "Facing Hold to Press",
+          "sets": null
+        },
+        {
+          "id": 28,
+          "exerciseName": "Alt Press",
+          "sets": null
+        },
+        {
+          "id": 29,
+          "exerciseName": "Alt Hammer Frontal Raises",
+          "sets": null
+        },
+        {
+          "id": 30,
+          "exerciseName": "Range Raises",
+          "sets": null
+        },
+        {
+          "id": 31,
+          "exerciseName": "Lateral Raises",
+          "sets": null
+        }
+      ],
+      "youtube": [
+        {
+          "id": 6,
+          "exLink": "https://www.youtube.com/watch?v=ME0cj3FTbms",
+          "group": null
+        }
+      ]
+    }
+  ],
+  "combinedGroups": []
+}

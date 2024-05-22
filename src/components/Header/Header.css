@@ -1,0 +1,17 @@
+header {
+  padding: 20px;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #fff;
+  z-index: 100;
+  box-shadow: 0px 5px 50px rgba(0, 0, 0, 0.131);
+}
+
+header a:hover{
+  transform: translateY(2px);
+}
